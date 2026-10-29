@@ -1,0 +1,1 @@
+"""Thesis-defense API routes."""
